@@ -16,4 +16,4 @@ Java
 Akka
 
 ### Note
-* I have just included the source code of all the projects in this repository, so if you would like to run the code then just make a Java project in your preferred IDE and copy all the source code in the src folder and run the class with the main method.
+* I have just included the source code of all the projects in this repository, so if you would like to run the code then just make a Java project in your preferred IDE and copy all the class files in the src folder of your project and run the class with the main method.
