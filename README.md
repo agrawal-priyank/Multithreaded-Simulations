@@ -12,7 +12,7 @@
 ### Programming Language
 Java
 
-### Technologies
+### Packages
 Akka
 
 ### Note
