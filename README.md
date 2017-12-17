@@ -1,4 +1,4 @@
-## Multi-threading in Java
+## Multithreading in Java
 
 ### Description
 1. Simulated an auction and a coffee shop real-life scenarios using multi-threading techniques such as synchronization, locks, wait, notify, thread executor, and atomic and non-blocking data structures.
