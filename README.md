@@ -15,6 +15,9 @@ Java
 ### Packages
 Akka
 
+### Tools/IDE 
+NetBeans, IntelliJ
+
 ### Note
 * I have just included the source code of all the projects in this repository, so if you would like to run the code then just make a Java project in your preferred IDE and copy all the class files in the src folder of your project and run the class with the main method.
 * For running the Akka project download akka_2.11-2.4.20.zip file from https://doc.akka.io/downloads/ and then add the following three jars present in the lib folder of the downloaded zip file to the build path of your Java project.
